@@ -3,12 +3,10 @@
 <h3 align="center">Full-Stack Software Developer | PHP & Laravel Specialist</h3>
 
 <p align="center">
-  Full-stack developer with 5+ years of experience designing and building robust Laravel and Vue.js applications.
-  Skilled in crafting RESTful APIs, optimizing backend performance, and containerizing environments with Docker.
+  Full-stack developer with 5+ years of experience designing and building scalable web applications using Laravel and Vue.js. 
+  Specialized in crafting RESTful APIs, optimizing backend performance, and containerizing environments with Docker. 
   Passionate about clean code, automation, and delivering measurable impact within agile teams.
 </p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -27,7 +25,7 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" title="Vue.js" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" width="40" title="Angular" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="40" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" title="Node.js" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" title="jQuery" />
 </div>
 
@@ -58,8 +56,6 @@
   <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="40" title="SonarQube" />
 </div>
 
----
-
 <h2 align="center">📜 Certifications</h2>
 
 <p align="center">
@@ -69,8 +65,6 @@
   🧠 <b>Web Development with PHP</b>
 </p>
 
----
-
 <h2 align="center">📄 About Me</h2>
 
 <p align="center">
@@ -79,23 +73,23 @@
   ⚡ Adaptable, performance-focused, and passionate about developer experience and software quality.
 </p>
 
----
-
 <h2 align="center">📈 GitHub Insights</h2>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hasttyr&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub%20Stats"
-    height="150" alt="GitHub Stats" />
+    src="https://github-readme-stats.vercel.app/api?username=hasttyr&theme=catppuccin_mocha&show_icons=true&hide_border=false&count_private=true" height="150" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hasttyr&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&custom_title=Top%20Languages"
-    height="150" alt="Top Languages" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hasttyr&theme=catppuccin_mocha&hide_border=false" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&theme=catppuccin_mocha&show_icons=true&hide_border=false&layout=compact" height="150" />
 </div>
-
----
 
 <h2 align="center">✍️ What Inspires Me</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Developer Quotes" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true"
+    alt="Developer Quotes"
+    height="150"
+  />
 </div>
