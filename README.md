@@ -77,18 +77,18 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hasttyr&theme=catppuccin_mocha&show_icons=true&hide_border=false&count_private=true" height="150" />
+    src="https://github-readme-stats.vercel.app/api?username=hasttyr&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="150" />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hasttyr&theme=catppuccin_mocha&hide_border=false" height="150" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hasttyr&theme=github_dark&hide_border=true" height="150" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&theme=catppuccin_mocha&show_icons=true&hide_border=false&layout=compact" height="150" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&theme=github_dark&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
 <h2 align="center">✍️ What Inspires Me</h2>
 
 <div align="center">
   <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
     alt="Developer Quotes"
     height="150"
   />
