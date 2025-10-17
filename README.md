@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Nilson Aldair Molina Rengifo 👨‍💻</h1>
 
-<h3 align="center">Full-Stack Software Developer | PHP-Laravel Specialist</h3>
+<h3 align="center">Full-Stack Software Developer | PHP & Laravel Specialist</h3>
 
 <p align="center">
-  Full-stack software developer with 5+ years of experience building robust Laravel and Vue.js applications. Proficient
-  in designing RESTful APIs, optimizing backend performance, and containerizing environments with Docker. Passionate
-  about clean code, automation, and delivering measurable impact in agile teams.
+  Full-stack developer with 5+ years of experience designing and building robust Laravel and Vue.js applications.
+  Skilled in crafting RESTful APIs, optimizing backend performance, and containerizing environments with Docker.
+  Passionate about clean code, automation, and delivering measurable impact within agile teams.
 </p>
+
+---
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<!-- LENGUAJES -->
+<!-- LANGUAGES -->
 <h3 align="center">👨‍💻 Languages</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP" />
@@ -19,7 +21,7 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python (Basic)" />
 </div>
 
-<!-- FRAMEWORKS & LIBRERÍAS -->
+<!-- FRAMEWORKS & LIBRARIES -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel" />
@@ -29,7 +31,7 @@
   <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" title="jQuery" />
 </div>
 
-<!-- BASES DE DATOS -->
+<!-- DATABASES -->
 <h3 align="center">🗄️ Databases</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL" />
@@ -37,7 +39,7 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB" />
 </div>
 
-<!-- DEVOPS & INFRAESTRUCTURA -->
+<!-- DEVOPS & INFRASTRUCTURE -->
 <h3 align="center">🛠️ DevOps & Infrastructure</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker" />
@@ -52,10 +54,11 @@
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git" />
   <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" title="GitHub Actions" />
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" title="GitLab" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" title="GitLab CI" />
-  <img src="https://cdn.simpleicons.org/sonarqubeserver/126ED3" width="40" title="SonarQube" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" title="GitLab" />
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="40" title="SonarQube" />
 </div>
+
+---
 
 <h2 align="center">📜 Certifications</h2>
 
@@ -66,32 +69,33 @@
   🧠 <b>Web Development with PHP</b>
 </p>
 
-<hr>
+---
 
 <h2 align="center">📄 About Me</h2>
 
 <p align="center">
-  🎓 Systems Engineering student at <b>Universidad Central</b>, with technical and associate-level degrees from
-  <b>SENA</b>.<br>
+  🎓 Systems Engineering student at <b>Universidad Central</b>, with technical and associate degrees from <b>SENA</b>.<br>
   💼 Experienced in building full-stack applications, containerized workflows, and testable Laravel backends.<br>
-  ⚡ Quick to adapt, focused on performance, and passionate about developer experience.
+  ⚡ Adaptable, performance-focused, and passionate about developer experience and software quality.
 </p>
 
-<hr>
+---
 
-<h2 align="center"> 📈 GitHub Insights</h2>
+<h2 align="center">📈 GitHub Insights</h2>
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pallid-hasttur&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats"
-    height="150" alt="stats graph" />
+    src="https://github-readme-stats.vercel.app/api?username=hasttyr&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=nord&hide_border=true&custom_title=GitHub%20Stats"
+    height="150" alt="GitHub Stats" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pallid-hasttur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2&custom_title=Main%20Languages"
-    height="150" alt="languages graph" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hasttyr&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&custom_title=Top%20Languages"
+    height="150" alt="Top Languages" />
 </div>
 
-<h2 align="center"> ✍️ What inspires me </h2>
+---
+
+<h2 align="center">✍️ What Inspires Me</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Developer Quotes" />
 </div>
