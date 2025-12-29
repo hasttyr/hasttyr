@@ -10,30 +10,30 @@ I tend to work close to system boundaries, making pragmatic technical decisions 
 
 ## Languages
 
-<img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript" />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript" />
-<img src="https://cdn.simpleicons.org/python/3776AB" width="40" title="Python" />
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## Frameworks & Platforms
 
-<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel" />
-<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" title="Vue.js" />
-<img src="https://cdn.simpleicons.org/angular/DD0031" width="40" title="Angular" />
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 
 ## Data & Storage
 
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" title="MySQL" />
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" title="PostgreSQL" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## Infrastructure & Delivery
 
 Experience deploying and operating backend systems using containerized environments and automated CI/CD workflows. I’ve worked with GitLab CI and Bitbucket Pipelines, and with AWS cloud services such as EC2 for compute and S3 for object storage in production environments.
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker" />
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" title="GitLab CI" />
-<img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="40" title="Bitbucket" />
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" title="AWS" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ## Training & Certifications
 
@@ -45,9 +45,3 @@ Experience deploying and operating backend systems using containerized environme
 ## Background
 
 Systems Engineering student at **_Universidad Central_**, with technical and associate degrees from **_SENA_**. My professional experience includes backend development for internal platforms, data-heavy systems, and APIs consumed by mobile applications, with a focus on long-term maintainability, reliability, and pragmatic system design.
-
-### GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasttyr&theme=github_dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasttyr&theme=github_dark&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&theme=github_dark&hide_border=true&layout=compact" height="150" />
