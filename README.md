@@ -1,12 +1,10 @@
-# Hi, I'm Nilson Molina
+## Backend-Focused Software Engineer (PHP · Laravel)
 
-## Backend-Focused Software Engineer - PHP / Laravel
-
-Backend engineer with hands-on experience building and maintaining production systems at different stages of maturity. My work has centered around Laravel-based platforms, APIs for mobile applications, and data-intensive systems where performance and reliability aren't optional, they're part of the job.
+Backend engineer with experience designing, building, and maintaining production systems at various stages of maturity. I specialize in Laravel-based platforms, mobile APIs, and data-intensive systems where performance and reliability are essential.
 
 ## What I Do
 
-I work close to the backend: architecture decisions, data modeling, API design, and deployment workflows. I've contributed across freelance, consulting, and in-house roles, gradually taking on more technical ownership as an individual contributor.
+I focus on backend architecture, data modeling, API design, and deployment workflows. I have worked in freelance, consulting, and in-house roles, progressively taking on greater technical responsibility as an individual contributor.
 
 ## Languages
 
@@ -28,7 +26,7 @@ I work close to the backend: architecture decisions, data modeling, API design, 
 
 ## Infrastructure & Delivery
 
-I've deployed and operated backend systems using Docker, automated pipelines (GitLab CI, Bitbucket Pipelines), and AWS services like EC2 and S3 in real production environments.
+I deploy and operate backend systems using Docker, automated CI pipelines (GitLab CI, Bitbucket Pipelines), and AWS services such as EC2 and S3 in production environments.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
@@ -37,11 +35,7 @@ I've deployed and operated backend systems using Docker, automated pipelines (Gi
 
 ## Certifications
 
-- Application & Service Deployment with Docker
-- Database Construction with MySQL
+- Application and Service Deployment with Docker
+- MySQL Database Construction
 - Cybersecurity Fundamentals
 - Applied Machine Learning (K-Means)
-
-## Background
-
-Systems Engineering student at **Universidad Central**, with technical and associate degrees from **SENA**. My experience spans internal platforms, data-heavy systems, and mobile-facing APIs, always with an eye on code that holds up over time.
