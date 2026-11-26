@@ -49,9 +49,9 @@ Backend engineer with experience designing, building and maintaining production 
 - Cybersecurity Fundamentals
 - Applied Machine Learning (K-Means)
 
-<!-- TODO: add contact links, e.g.
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/YOUR-PROFILE)
--->
+
+<a href="https://www.linkedin.com/in/nilsonmolina/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+&nbsp; Let's connect on [LinkedIn](https://www.linkedin.com/in/nilsonmolina/).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF2D20&height=100&section=footer" width="100%" alt="" />
