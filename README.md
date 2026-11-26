@@ -1,32 +1,35 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF2D20&height=180&section=header&text=Nilson%20Aldair&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%C2%B7%20PHP%20%C2%B7%20Laravel&descAlignY=62" width="100%" alt="Nilson Aldair, Backend Software Engineer, PHP and Laravel" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF2D20&height=180&section=header&text=Nilson%20Aldair&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%C2%B7%20PHP%20%C2%B7%20Node.js&descAlignY=62" width="100%" alt="Nilson Aldair, Senior Backend Engineer, PHP and Node.js" />
 
 <div align="center">
 
-Building reliable production backends: Laravel platforms, mobile APIs and data-intensive systems.
+Building reliable production backends: fintech services, microservices, system integrations and data-intensive platforms.
 
 </div>
 
 ## About
 
-Backend engineer with experience designing, building and maintaining production systems at different stages of maturity. I have worked in freelance, consulting and in-house roles, taking on increasing technical ownership as an individual contributor.
+Senior Backend Engineer with 7+ years of experience designing, building and maintaining production backend systems and APIs. Currently a Senior PHP Engineer at Blankfactor, embedded in the Chargebacks & Disputes area of a U.S.-based fintech, working on a core PHP (Phalcon) platform and TypeScript/Node.js microservices on AWS.
+
+I have worked in consulting, freelance and in-house roles, owning features from data modeling and business logic through deployment and production stabilization.
 
 ## Focus Areas
 
 - **Backend architecture and data modeling:** schemas and services designed to grow with the product.
-- **API design:** stable, well-documented APIs for mobile and web clients.
-- **Deployment and operations:** containerized applications, automated CI pipelines and AWS infrastructure.
+- **Microservices and integrations:** services that connect core platforms with internal apps and third parties (Shopify, SuiteCRM).
+- **API design:** stable, well-documented REST APIs for web and mobile clients.
+- **Cloud and operations:** AWS (Lambda, SQS, DynamoDB, S3, CloudWatch), Docker, CI/CD with GitHub Actions and monitoring with Datadog.
 - **Code quality:** static analysis (PHPStan/Larastan), automated testing (Pest/PHPUnit) and consistent formatting (Pint).
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,aws,gitlab&perline=7" alt="PHP, Laravel, MySQL, PostgreSQL, Docker, AWS, GitLab CI" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,postgres,mysql,redis&perline=7" alt="PHP, Laravel, Node.js, TypeScript, PostgreSQL, MySQL, Redis" />
   <br />
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,bitbucket,py&perline=7" alt="Vue.js, TypeScript, JavaScript, Tailwind CSS, Vite, Bitbucket Pipelines, Python" />
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,githubactions,vue,py&perline=6" alt="AWS, DynamoDB, Docker, GitHub Actions, Vue.js, Python" />
 </p>
 
 <p align="center">
-  <b>Tooling:</b> Pest · PHPUnit · PHPStan/Larastan · Pint &nbsp;|&nbsp; <b>Numerical computing:</b> NumPy · SciPy
+  <b>Also:</b> Phalcon · OpenAPI · Datadog &nbsp;|&nbsp; <b>Tooling:</b> Pest · PHPUnit · PHPStan/Larastan · Pint
 </p>
 
 ## GitHub Stats
@@ -44,10 +47,12 @@ Backend engineer with experience designing, building and maintaining production 
 
 ## Certifications
 
-- Application and Service Deployment with Docker
-- MySQL Database Construction
-- Cybersecurity Fundamentals
-- Applied Machine Learning (K-Means)
+- Database Construction with MySQL (2025)
+- Unsupervised Machine Learning: K-Means with Python (2025)
+- Cybersecurity Fundamentals (2025)
+- Agile Software Development with Scrum (2025)
+- Variables and Control Structures in Python (2024)
+- Application & Service Deployment with Docker (2023)
 
 ## Contact
 
