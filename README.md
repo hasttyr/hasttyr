@@ -1,36 +1,46 @@
-## Backend-Focused Software Engineer (PHP · Laravel)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF2D20&height=180&section=header&text=Nilson%20Aldair&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer%20%C2%B7%20PHP%20%C2%B7%20Laravel&descAlignY=62" width="100%" alt="Nilson Aldair, Backend Software Engineer, PHP and Laravel" />
 
-Backend engineer with experience designing, building, and maintaining production systems at various stages of maturity. I specialize in Laravel-based platforms, mobile APIs, and data-intensive systems where performance and reliability are essential.
+<div align="center">
 
-## What I Do
+Building reliable production backends: Laravel platforms, mobile APIs and data-intensive systems.
 
-I focus on backend architecture, data modeling, API design, and deployment workflows. I have worked in freelance, consulting, and in-house roles, progressively taking on greater technical responsibility as an individual contributor.
+</div>
 
-## Languages
+## About
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+Backend engineer with experience designing, building and maintaining production systems at different stages of maturity. I have worked in freelance, consulting and in-house roles, taking on increasing technical ownership as an individual contributor.
 
-## Frameworks & Platforms
+## Focus Areas
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+- **Backend architecture and data modeling:** schemas and services designed to grow with the product.
+- **API design:** stable, well-documented APIs for mobile and web clients.
+- **Deployment and operations:** containerized applications, automated CI pipelines and AWS infrastructure.
+- **Code quality:** static analysis (PHPStan/Larastan), automated testing (Pest/PHPUnit) and consistent formatting (Pint).
 
-## Data & Storage
+## Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker,aws,gitlab&perline=7" alt="PHP, Laravel, MySQL, PostgreSQL, Docker, AWS, GitLab CI" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,bitbucket,py&perline=7" alt="Vue.js, TypeScript, JavaScript, Tailwind CSS, Vite, Bitbucket Pipelines, Python" />
+</p>
 
-## Infrastructure & Delivery
+<p align="center">
+  <b>Tooling:</b> Pest · PHPUnit · PHPStan/Larastan · Pint &nbsp;|&nbsp; <b>Numerical computing:</b> NumPy · SciPy
+</p>
 
-I deploy and operate backend systems using Docker, automated CI pipelines (GitLab CI, Bitbucket Pipelines), and AWS services such as EC2 and S3 in production environments.
+## GitHub Stats
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hasttyr&show_icons=true&hide_border=true&hide_rank=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasttyr&show_icons=true&hide_border=true&hide_rank=true" alt="GitHub stats for hasttyr" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&layout=compact&hide_border=true&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasttyr&layout=compact&hide_border=true" alt="Most used languages for hasttyr" />
+  </picture>
+</p>
 
 ## Certifications
 
@@ -38,3 +48,10 @@ I deploy and operate backend systems using Docker, automated CI pipelines (GitLa
 - MySQL Database Construction
 - Cybersecurity Fundamentals
 - Applied Machine Learning (K-Means)
+
+<!-- TODO: add contact links, e.g.
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/YOUR-PROFILE)
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:FF2D20&height=100&section=footer" width="100%" alt="" />
